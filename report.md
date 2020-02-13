@@ -23,7 +23,7 @@
 * баг репорт 
 * отчёт тестрирование
 
-В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
+В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
 
 * Result for  80b427f8-92cd-3aae-ba04-03927fbe17c6: OK
 * Result for 387eedc6-12e9-3b32-9881-63b6b5e85317: ОК
